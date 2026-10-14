@@ -1,6 +1,6 @@
 # SBA 12: Movie Finder API
 
-## By Mamadou Moussa Balde
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
 
 This is an Express API. It does not serve an HTML page. It reads `PORT`, `OMDB_BASE_URL`, and `OMDB_API_KEY` from the environment and forwards movie lookups to that OMDB address. The responses below are from this run, which listened at http://localhost:3001.
 
